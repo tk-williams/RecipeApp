@@ -1,0 +1,111 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*"
+    >
+
+    <EditText
+        android:id="@+id/AddRecipeName"
+        android:hint="Recipe Name"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+    <TableRow
+        android:id="@+id/AddRecipeEditIngredientsRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/AddRecipeEditAmount"
+            android:hint="Amount"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_weight="1" />
+
+        <EditText
+            android:id="@+id/AddRecipeEditUnit"
+            android:hint="Unit"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_weight="1" />
+
+        <EditText
+            android:id="@+id/AddRecipeEditIngredient"
+            android:hint="Name"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_weight="1" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/AddRecipeAddIngredientButton"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/AddRecipeAddIngredientsButton"/>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/IngredientsHeader"
+            android:layout_column="0"
+            android:padding="10dp"
+            android:layout_span="3"
+            android:text="@string/AddRecipeIngredientsHeader"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:background="@color/headerColor"
+            android:gravity="center"/>
+    </TableRow>
+
+    <LinearLayout
+        android:id="@+id/AddRecipeIngredientsList"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/AddRecipeInstructionsText"
+        android:hint="Instruction"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/AddRecipeAddInstructionButton"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/AddRecipeAddInstructionsButton"/>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/InstructionsHeader"
+            android:layout_column="0"
+            android:padding="10dp"
+            android:layout_span="3"
+            android:text="@string/AddRecipeInstructionsHeader"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:background="@color/headerColor"
+            android:gravity="center"/>
+    </TableRow>
+
+    <LinearLayout
+        android:id="@+id/AddRecipeInstructionsList"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/AddRecipeSaveButton"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/AddRecipeSaveButton"/>
+
+</TableLayout>

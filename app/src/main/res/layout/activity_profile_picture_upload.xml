@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/signUpPictureHeader"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/SignUpPictureHeader"
+            android:gravity="center_horizontal"
+            android:textSize="30dp"/>
+
+        <ImageView
+            android:id="@+id/signUpPicture"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/signUpPictureBrowseButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/SignUpPictureBrowse"/>
+
+        <Button
+            android:id="@+id/signUpPictureUploadButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/SignUpPictureButton"/>
+
+        <Button
+            android:id="@+id/signUpPictureSkipButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/SignUpPictureSkip"/>
+
+        <Button
+            android:id="@+id/signUpPictureBackButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/SignUpPictureBack"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_confirmation">ConfirmationActivity</string>
+
+    <!--MainActivity-->
+    <string name="logInButtonName">Log In</string>
+    <string name="logOutButtonName">Log Out</string>
+    <string name="signUpButtonName">Sign Up</string>
+    <string name="viewProfileButtonName">View Profile</string>
+    <string name="addRecipeButtonName">Add Recipe</string>
+    <string name="recipeBrowserButtonName">Browse Recipes</string>
+
+    <!--LogInActivity-->
+    <string name="logInUsernameHint">Username</string>
+    <string name="LogInPasswordHint">Password</string>
+    <string name="LogInConfirmationButton">Submit</string>
+
+    <!--SignUpActivity-->
+    <string name="SignUpUsernameError">Username must be 6-15 characters</string>
+    <string name="SignUpUsernameError2">Username already taken</string>
+    <string name="SignUpUsernameHint">Username (6-15 characters) (Required)</string>
+    <string name="SignUpPasswordError">Password must be 6-15 characters</string>
+    <string name="SignUpPasswordHint">Password (6-15 characters) (Required)</string>
+    <string name="SignUpFirstNameError">First Name must use alphabetic characters</string>
+    <string name="SignUpFirstNameHint">First Name (Alphabetic Characters) (Required)</string>
+    <string name="SignUpLastNameError">Last Name must use alphabetic characters</string>
+    <string name="SignUpLastNameHint">Last Name (Alphabetic Characters) (Required)</string>
+    <string name="SignUpEmailError">Email must be in proper format</string>
+    <string name="SignUpEmailHint">Email (e.g. "email@domain.abc") (Required)</string>
+    <string name="SignUpCityError">City must use alphabetic characters</string>
+    <string name="SignUpCityHint">City (Alphabetic characters)</string>
+    <string name="SignUpStateError">State or Province must use alphabetic characters</string>
+    <string name="SignUpStateHint">State or Province (Alphabetic characters)</string>
+    <string name="SignUpCountryError">Country must use alphabetic characters</string>
+    <string name="SignUpCountryHint">Country (Alphabetic characters)</string>
+    <string name="SignUpConfirmationButton">Submit</string>
+    <string name="SignUpBioError">Bio must be less than 100 characters</string>
+    <string name="SignUpBio">Brief Bio (less than 100 characters)</string>
+    <string name="SignUpPictureHeader">Upload a Profile Picture</string>
+    <string name="SignUpPictureButton">Upload</string>
+    <string name="SignUpPictureSkip">Skip for now</string>
+    <string name="SignUpPictureBrowse">Browse</string>
+    <string name="SignUpPictureBack">Return to Edit Profile</string>
+
+    <!--UserProfileActivity-->
+    <string name="UserProfileUsernameTag">Username: </string>
+    <string name="UserProfileNameTag">Name: </string>
+    <string name="UserProfileEmailTag">Email: </string>
+    <string name="UserProfileLocationTag">Location: </string>
+    <string name="UserProfileBioTag">Bio: </string>
+    <string name="UserProfileEditProfileButton">Edit Profile</string>
+    <string name="UserProfilePrivacySettingsButton">Privacy Settings</string>
+    <string name="UserProfileReturnButton">Return to Main Menu</string>
+
+    <!--EditProfileActivity-->
+    <string name="EditProfileFirstNameTag">First Name: </string>
+    <string name="EditProfileLastNameTag">Last Name: </string>
+    <string name="EditProfileEmailTag">Email: </string>
+    <string name="EditProfileCityTag">City: </string>
+    <string name="EditProfileStateTag">State or Province: </string>
+    <string name="EditProfileCountryTag">Country: </string>
+    <string name="EditProfileBioTag">Bio: </string>
+    <string name="EditProfileSaveChangesButton">Save</string>
+    <string name="EditProfileDiscardChangesButton">Discard</string>
+    <string name="EditProfileChangePictureButton">Change Profile Picture</string>
+
+    <!--PrivacySetgginsActivity-->
+    <string name="PrivacySettingsNameTag">Name: </string>
+    <string name="PrivacySettingsEmailTag">Email: </string>
+    <string name="PrivacySettingsCityTag">City: </string>
+    <string name="PrivacySettingsStateTag">State or Province: </string>
+    <string name="PrivacySettingsCountryTag">Country: </string>
+    <string name="PrivacySettingsBioTag">Bio: </string>
+    <string name="PrivacySettingsSaveChangesButton">Save</string>
+    <string name="PrivacySettingsDiscardChangesButton">Discard</string>
+
+    <!--AddRecipeActivity-->
+    <string name="AddRecipeAddIngredientsButton">Add Ingredient</string>
+    <string name="AddRecipeAddInstructionsButton">Add Instruction</string>
+    <string name="AddRecipeSaveButton">Save Recipe</string>
+    <string name="AddRecipeIngredientsHeader">Ingredients</string>
+    <string name="AddRecipeInstructionsHeader">Instructions</string>
+
+    <!--RecipeBrowser-->
+    <string name="RecipeBrowserSearchHint">Search for a recipe...</string>
+    <string name="RecipeBrowserSearchButton">Search</string>
+    <string name="RecipeBrowserNextButton">Next</string>
+    <string name="RecipeBrowserPrevButton">Prev</string>
+    <string name="RecipeBrowserSearchBy">Search by...</string>
+    <string name="RecipeBrowserSortBy">Sort by...</string>
+    <string-array name="RecipeBrowserSearchByArray">
+        <item>Author</item>
+        <item>Ingredient</item>
+        <item>Name</item>
+    </string-array>
+    <string-array name="RecipeBrowserSortByArray">
+        <item>Author</item>
+        <item>Ingredient</item>
+        <item>Name</item>
+    </string-array>
+</resources>

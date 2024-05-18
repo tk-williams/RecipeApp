@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Switch
+            android:id="@+id/PrivacySettingsNameSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/PrivacySettingsNameTag"/>
+
+        <Switch
+            android:id="@+id/PrivacySettingsEmailSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/PrivacySettingsEmailTag"/>
+
+        <Switch
+            android:id="@+id/PrivacySettingsCitySwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/PrivacySettingsCityTag"/>
+
+        <Switch
+            android:id="@+id/PrivacySettingsStateSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/PrivacySettingsStateTag"/>
+
+        <Switch
+            android:id="@+id/PrivacySettingsCountrySwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/PrivacySettingsCountryTag"/>
+
+        <Switch
+            android:id="@+id/PrivacySettingsBioSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/PrivacySettingsBioTag"/>
+
+        <Button
+            android:id="@+id/PrivacySettingsSaveChangesButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/PrivacySettingsSaveChangesButton"/>
+
+        <Button
+            android:id="@+id/PrivacySettingsDiscardChangesButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/PrivacySettingsDiscardChangesButton"/>
+
+    </LinearLayout>
+
+</LinearLayout>

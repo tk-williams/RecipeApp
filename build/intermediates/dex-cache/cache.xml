@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/f2eb24d9425c870c228b1375b4811159abf22b9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5cf972444921e5e629d5fb75b08c771900e8aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62225ffdac59fb0df63b82679675ee8e6513bf9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/49e048628d14fe9b4b759cd9163579bb85cfe4a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19bacf1e776227bd0706ed95792ee6940dab154c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/7dfe35dc8f917f45594e73ce3e97d61f99e937cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3ebedcedb5c387f910feab455ed3e0112c0e77b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/3a0b8f867eb648537f9ef716fd5db4e90975ef72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a62ec0ecc8ce3aad828f51c3af0ecbd1d9f1e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/cc8bd19e57510a5999bc36ebbbe9637219f9d6c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_697f217215c3463b8220819e0bdfa7290f198f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/9120db4d0c5a99127f90615fb6dc014b2957dffd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a320f665b854e94c77ba0b0344b44b66fce57d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/875d7113b99471ea8a514f1bee331084959d8cba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b51c0ebec2f1b0eaf7b962f25cec56ec829acd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_a510e83729a02fd2a84d0f5736082839cba53b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/06d2a47fc4701d6382d0ab4241cb0a637bf0d03d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_988bba73c5041372e85e85073a452882ae262b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/e3e41aa18adf227e1ebdad50636dd75e3eda2d83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff42ec6038fc5676443bfca1b696a7edcf97009a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/349f52c3be351bc2fd0c33d1b20c6348f53b809b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca1aae99fe18a16f749bf56fbc70aca1a39de39c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/21de7f391e96dd1923ed13b9c819442b71130b5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97587d47fe2be5966ad1e0ec194ec947ba27bf2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/d0f0c9140bc505f3e77f581933be983213dd6b88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba245007ec4b85f9f98828206ea7777191c56b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/1e28a1ccf484b3c75b78c00f0c418505914a79de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd013e9bc7ace323fafdaea0a37eec6400198e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/49219f62848e53396ee71ed5049c4f08da23ab88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c164120d454b4a7644555e0d2dc8d9608c4dd7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/3c87d2854ca3f408f8b6a3835107fb7d5b454db4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ab8419a6f8b4d1e57f0efa9f1efd0dfef160cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/f7929c319ef51597550b50e74eb01e2c8a0d817f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fb77bd58f5c912883a9a0b567d33957c6d402c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/61145b5b40c8a93608bc10f8a895eab539d7338f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd3379b67b9d06f2dd666f9041a1d57709334e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/636b81e67c9b8a823a47d94f8876d9f9d29e1589/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75e51f4ce50cdd177542c604c8619aa51d03c72a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/de7a63c4a1024f4a1fa43f45dd5467238d8edc41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e92bfc71fa59ec1d97769b391fbab301d9d15480/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_096218a2ff9e7c5abf4a73a69ac77eb69b6ac535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/b04b64be7b014d29069e02afceeed5752687f3ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81fbb885675c39d31135c6e03755ce4c44843eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/00490cb7f758ec4f2674590570c8e96bda33743a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6794fea88d77e92f87b400ce6238c7a8e11d5458/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="adbacc20cd5f1c93869f61c5692fddc43d28ff22">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0c7fe6eeb12951361e005a772f40b4a4d7069e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/b39f84d42c2b515610bbb697908d449ffb3de8bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edda230f6b355b8253201a7126aff864a37257d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/9c5dfd87a750b61ec2d957163b429d463e9310b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81039a9cdc82cc4c26cd35aec98c92e3e1920531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/9fbd3a0eb38ddb7faf26d29b495add7204dfc1df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcfeba2bef60bb2c8a7548f570ed72623a3af858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tcalebw/.android/build-cache/ecabf62cb7bb031f6f90653081d9757117ef0c43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/tcalebw/Documents/RecipeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60eb08328f37218e7694ef6dccbe99238d2c131b/classes.dex" />
+    </item>
+
+</items>

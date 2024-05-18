@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "70102418704",
+    "firebase_url": "https://recipeapp-35e7d.firebaseio.com",
+    "project_id": "recipeapp-35e7d",
+    "storage_bucket": "recipeapp-35e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70102418704:android:243c1bf6dd560303",
+        "android_client_info": {
+          "package_name": "twilliams84.uco.edu.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70102418704-b68okm9dou23nfusvsicebeuci8nevlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "twilliams84.uco.edu.recipeapp",
+            "certificate_hash": "fa91d1334a85bf9de5de7198e55f08106379386f"
+          }
+        },
+        {
+          "client_id": "70102418704-pi1fstfk60e1r9inb1cj4d5fjfsot95n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEM5z8aS6_DABoyiif5n-7OVWIJKIuJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70102418704-pi1fstfk60e1r9inb1cj4d5fjfsot95n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
